@@ -1,0 +1,11 @@
+xformers
+einops
+langchain
+langchain-community
+torch
+faiss-cpu
+transformers
+sentence-transformers
+pypdf
+InstructorEmbedding
+gpt4all==2.2.1.post1
