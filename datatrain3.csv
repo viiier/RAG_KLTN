@@ -1,4 +1,103 @@
 ﻿id,ngành,học phí,tổ hợp xét tuyển,điểm chuẩn
-1,Khoa học máy tính,11.520.000,"Toán Lý Hoá (A00), Toán KHTN Văn (A16), Toán Lý Ngoại ngữ (A01), Văn Toán Ngoại ngữ (D01)",25
-2,Trí tuệ nhân tạo,12.520.000,"Toán Lý Hoá (A00), Toán KHTN Văn (A16), Toán Lý Ngoại ngữ (A01), Văn Toán Ngoại ngữ (D01)",26
-3,Công nghệ phần mềm,13.520.000,"Toán Lý Hoá (A00), Toán KHTN Văn (A16), Toán Lý Ngoại ngữ (A01), Văn Toán Ngoại ngữ (D01)",27
+1,Công nghệ Phần mềm,11.520.000,"Toán – Lý - Hoá (A00), Toán -  KHTN - Văn (A16), Toán – Lý - Ngoại ngữ (A01), Văn – Toán - Ngoại ngữ (D01)",29
+2,Thiết kế Games và Multimedia,12.520.000,"Toán – Lý - Hoá (A00), Toán -  KHTN - Văn (A16), Toán – Lý - Ngoại ngữ (A01), Văn – Toán - Ngoại ngữ (D01)",28
+3,An toàn Thông tin,13.520.000,"Toán – Lý - Hoá (A00), Toán -  KHTN - Văn (A16), Toán – Lý - Ngoại ngữ (A01), Văn – Toán - Ngoại ngữ (D01)",23
+4,Khoa học Máy tính,14.520.000,"Toán – Lý - Hoá (A00), Toán -  KHTN - Văn (A16), Toán – Lý - Ngoại ngữ (A01), Văn – Toán - Ngoại ngữ (D01)",23
+5,Trí tuệ Nhân tạo (HP),10.520.000,"Toán – Lý - Hoá (A00), Toán -  KHTN - Văn (A16), Toán – Lý - Ngoại ngữ (A01), Văn – Toán - Ngoại ngữ (D01)",21
+6,Khoa học Dữ liệu,11.520.000,"Toán – Lý - Hoá (A00), Toán -  KHTN - Văn (A16), Toán – Lý - Ngoại ngữ (A01), Văn – Toán - Ngoại ngữ (D01)",20
+7,Big Data & Machine Learning (HP),11.520.000,"Toán – Lý - Hoá (A00), Toán -  KHTN - Văn (A16), Toán – Lý - Ngoại ngữ (A01), Văn – Toán - Ngoại ngữ (D01)",26
+8,Kỹ thuật Mạng,11.520.000,"Toán – Lý - Hoá (A00), Toán -  KHTN - Văn (A16), Toán – Lý - Ngoại ngữ (A01), Văn – Toán - Ngoại ngữ (D01)",26
+9,Mạng Máy tính & Truyền thông Dữ liệu,11.520.000,"Toán – Lý - Hoá (A00), Toán -  KHTN - Văn (A16), Toán – Lý - Ngoại ngữ (A01), Văn – Toán - Ngoại ngữ (D01)",24
+10,Kỹ thuật Máy tính,11.520.000,"Toán – Lý - Hoá (A00), Toán – Lý - Ngoại ngữ (A01), Văn – Toán - Lý (C01), Văn – Toán - Ngoại ngữ (D01)",29
+11,Điện Tự động,12.520.000,"Toán – Lý - Hoá (A00), Toán -  KHTN - Văn (A16), Toán – Lý - Ngoại ngữ (A01), Văn – Toán - Ngoại ngữ (D01)",25
+12,Điện tử - Viễn thông,12.520.000,"Toán – Lý - Hoá (A00), Toán -  KHTN - Văn (A16), Toán – Lý - Ngoại ngữ (A01), Văn – Toán - Ngoại ngữ (D01)",28
+13,Điện - Điện tử chuẩn PNU,12.520.000,"Toán – Lý - Hoá (A00), Toán -  KHTN - Văn (A16), Toán – Lý - Ngoại ngữ (A01), Văn – Toán - Ngoại ngữ (D01)",24
+14,Thiết kế Vi mạch Bán dẫn,12.520.000,"Toán – Lý - Hoá (A00), Toán -  KHTN - Văn (A16), Toán – Lý - Ngoại ngữ (A01), Văn – Toán - Ngoại ngữ (D01)",28
+15,Công nghệ Kỹ thuật Ô tô,12.520.000,"Toán – Lý - Hoá (A00), Toán -  KHTN - Văn (A16), Toán – Lý - Ngoại ngữ (A01), Văn – Toán - Ngoại ngữ (D01)",21
+16,Điện Cơ Ô tô,12.520.000,"Toán – Lý - Hoá (A00), Toán -  KHTN - Văn (A16), Toán – Lý - Ngoại ngữ (A01), Văn – Toán - Ngoại ngữ (D01)",23
+17,Kỹ thuật Điều khiển và Tự động hóa,13.520.000,"Toán – Lý - Hoá (A00), Toán -  KHTN - Văn (A16), Toán – Lý - Ngoại ngữ (A01), Văn – Toán - Ngoại ngữ (D01)",26
+18,Cơ điện tử chuẩn PNU,13.520.000,"Toán – Lý - Hoá (A00), Toán -  KHTN - Văn (A16), Toán – Lý - Ngoại ngữ (A01), Văn – Toán - Ngoại ngữ (D01)",29
+19,Kỹ thuật Điện,13.520.000,"Toán – Lý - Hoá (A00), Toán -  KHTN - Văn (A16), Toán – Lý - Ngoại ngữ (A01), Văn – Toán - Ngoại ngữ (D01)",23
+20,Thiết kế Đồ họa,13.520.000,"Toán – Lý - Hoá (A00), Toán -  KHTN - Văn (A16), Toán – Lý - Ngoại ngữ (A01), Văn – Toán - Ngoại ngữ (D01)",29
+21,Thiết kế Thời trang,13.520.000,"Toán – Lý - Hoá (A00), Toán -  KHTN - Văn (A16), Toán – Lý - Ngoại ngữ (A01), Văn – Toán - Ngoại ngữ (D01)",20
+22,Kiến trúc Công trình,13.520.000,"Toán – Lý - Vẽ (V00), Toán – Văn - Vẽ (V01), Toán – KHXH - Vẽ (M02), Toán – KHTN - Vẽ (M04)",26
+23,Thiết kế Nội thất,13.520.000,"Toán – Lý - Vẽ (V00), Toán – Văn - Vẽ (V01), Toán – KHXH - Vẽ (M02), Toán – KHTN - Vẽ (M04)",25
+24,Xây dựng Dân dụng & Công nghiệp,13.520.000,"Toán – Lý - Hoá (A00), Toán -  KHTN - Văn (A16), Văn - Toán – Lý (C01), Văn – Toán - Ngoại ngữ (D01)",29
+25,Xây dựng Cầu đường,10.520.000,"Toán – Lý - Hoá (A00), Toán -  KHTN - Văn (A16), Văn - Toán – Lý (C01), Văn – Toán - Ngoại ngữ (D01)",20
+26,Công nghệ Quản lý Xây dựng,10.520.000,"Toán – Lý - Hoá (A00), Toán -  KHTN - Văn (A16), Văn - Toán – Lý (C01), Văn – Toán - Ngoại ngữ (D01)",25
+27,Công nghệ & Kỹ thuật Môi trường,10.520.000,"Toán – Lý - Hoá (A00), Toán -  KHTN - Văn (A16), Toán – Hoá - Sinh (B00), Văn – Toán - Hoá (C02)",26
+28,Công nghệ Thực phẩm,10.520.000,"Toán – Lý - Hoá (A00), Toán – Lý - Ngoại ngữ (A01), Toán – Hoá - Sinh (B00), Văn - Toán – Lý (C01)",24
+29,Quản lý Tài nguyên & Môi trường,10.520.000,"Toán – Lý - Hoá (A00), Toán -  KHTN - Văn (A16), Toán – Hoá - Sinh (B00), Văn – Toán - KHXH (C15)",29
+30,Công nghệ Chế tạo Máy,10.520.000,"Toán – Lý - Hoá (A00), Toán -  KHTN - Văn (A16), Văn - Toán – Lý (C01), Văn – Toán - Ngoại ngữ (D01)",24
+31,Quản trị Kinh doanh Tổng hợp,10.520.000,"Toán – Lý - Hoá (A00), Toán -  KHTN - Văn (A16), Văn - Toán – Lý (C01), Văn – Toán - Ngoại ngữ (D01)",28
+32,Quản trị Kinh doanh Bất động sản,10.520.000,"Toán – Lý - Hoá (A00), Toán -  KHTN - Văn (A16), Văn - Toán – Lý (C01), Văn – Toán - Ngoại ngữ (D01)",22
+33,Quản trị Kinh doanh Quốc tế (Ngoại thương),10.520.000,"Toán – Lý - Hoá (A00), Toán -  KHTN - Văn (A16), Văn - Toán – Lý (C01), Văn – Toán - Ngoại ngữ (D01)",29
+34,Phân tích Kinh doanh (Business Analytics),14.520.000,"Toán – Lý - Hoá (A00), Toán -  KHTN - Văn (A16), Văn - Toán – Lý (C01), Văn – Toán - Ngoại ngữ (D01)",20
+35,Thương mại Điện tử,14.520.000,"Toán – Lý - Hoá (A00), Toán -  KHTN - Văn (A16), Văn - Toán – Lý (C01), Văn – Toán - Ngoại ngữ (D01)",29
+36,Quản trị Nhân lực,14.520.000,"Toán – Lý - Hoá (A00), Toán -  KHTN - Văn (A16), Văn - Toán – Lý (C01), Văn – Toán - Ngoại ngữ (D01)",26
+37,Logistics & Quản lý Chuỗi cung ứng,14.520.000,"Toán – Lý - Hoá (A00), Toán -  KHTN - Văn (A16), Văn - Toán – Lý (C01), Văn – Toán - Ngoại ngữ (D01)",29
+38,Quản trị Kinh doanh Marketing,14.520.000,"Toán – Lý - Hoá (A00), Toán -  KHTN - Văn (A16), Văn - Toán – Lý (C01), Văn – Toán - Ngoại ngữ (D01)",21
+39,Digital Marketing,14.520.000,"Toán – Lý - Hoá (A00), Toán -  KHTN - Văn (A16), Văn - Toán – Lý (C01), Văn – Toán - Ngoại ngữ (D01)",27
+40,Kinh doanh Thương mại,14.520.000,"Toán – Lý - Hoá (A00), Toán -  KHTN - Văn (A16), Văn - Toán – Lý (C01), Văn – Toán - Ngoại ngữ (D01)",29
+41,Tài chính Doanh nghiệp,14.520.000,"Toán – Lý - Hoá (A00), Toán -  KHTN - Văn (A16), Văn - Toán – Lý (C01), Văn – Toán - Ngoại ngữ (D01)",29
+42,Ngân hàng,14.520.000,"Toán – Lý - Hoá (A00), Toán -  KHTN - Văn (A16), Văn - Toán – Lý (C01), Văn – Toán - Ngoại ngữ (D01)",26
+43,Đầu tư Tài chính,14.520.000,"Toán – Lý - Hoá (A00), Toán -  KHTN - Văn (A16), Văn - Toán – Lý (C01), Văn – Toán - Ngoại ngữ (D01)",29
+44,Kế toán Doanh nghiệp,14.520.000,"Toán – Lý - Hoá (A00), Toán -  KHTN - Văn (A16), Văn - Toán – Lý (C01), Văn – Toán - Ngoại ngữ (D01)",26
+45,Kế toán Quản trị (HP),14.520.000,"Toán – Lý - Hoá (A00), Toán -  KHTN - Văn (A16), Văn - Toán – Lý (C01), Văn – Toán - Ngoại ngữ (D01)",27
+46,Kế toán Kiểm toán,11.520.000,"Toán – Lý - Hoá (A00), Toán -  KHTN - Văn (A16), Văn - Toán – Lý (C01), Văn – Toán - Ngoại ngữ (D01)",25
+47,Công nghệ Tài chính (Fintech),11.520.000,"Toán – Lý - Hoá (A00), Toán -  KHTN - Văn (A16), Văn - Toán – Lý (C01), Văn – Toán - Ngoại ngữ (D01)",28
+48,Tiếng Anh Biên - Phiên dịch,11.520.000,"Văn – Toán - Anh (D01), Văn -Sử - Anh (D14), Văn - Địa - Anh (D15), 4.Văn – KHTN - Anh (D72)",24
+49,Tiếng Anh Du lịch,11.520.000,"Văn – Toán - Anh (D01), Văn -Sử - Anh (D14), Văn - Địa - Anh (D15), 4.Văn – KHTN - Anh (D72)",25
+50,Tiếng Anh Thương mại,11.520.000,"Văn – Toán - Anh (D01), Văn -Sử - Anh (D14), Văn - Địa - Anh (D15), 4.Văn – KHTN - Anh (D72)",26
+51,Tiếng Trung Biên - Phiên dịch,11.520.000,"Văn – Toán - Anh (D01), Văn -Sử - Anh (D14), Văn - Địa - Anh (D15), 4.Văn – KHTN - Anh (D72)",23
+52,Tiếng Trung Du lịch,11.520.000,"Văn – Toán - Anh (D01), Văn -Sử - Anh (D14), Văn - Địa - Anh (D15), 4.Văn – KHTN - Anh (D72)",28
+53,Tiếng Trung Thương mại,11.520.000,"Văn – Toán - Anh (D01), Văn -Sử - Anh (D14), Văn - Địa - Anh (D15), 4.Văn – KHTN - Anh (D72)",29
+54,Tiếng Hàn Biên - Phiên dịch,11.520.000,"Văn – Toán - Ngoại ngữ (D01), Văn – Sinh - Ngoại ngữ (D13), Toán – Sử - Ngoại ngữ (D09), Toán – Địa - Ngoại ngữ (D10)",20
+55,Tiếng Hàn Du lịch,11.520.000,"Văn – Toán - Ngoại ngữ (D01), Văn – Sinh - Ngoại ngữ (D13), Toán – Sử - Ngoại ngữ (D09), Toán – Địa - Ngoại ngữ (D10)",22
+56,Tiếng Hàn Thương mại,12.520.000,"Văn – Toán - Ngoại ngữ (D01), Văn – Sinh - Ngoại ngữ (D13), Toán – Sử - Ngoại ngữ (D09), Toán – Địa - Ngoại ngữ (D10)",22
+57,Tiếng Nhật Biên - Phiên dịch,12.520.000,"Toán – Lý - Ngoại ngữ (A01),  Văn – Toán - Anh (D01), Văn -Sử - Anh (D14), Văn - Địa - Anh (D15)",22
+58,Tiếng Nhật Du lịch,12.520.000,"Toán – Lý - Ngoại ngữ (A01),  Văn – Toán - Anh (D01), Văn -Sử - Anh (D14), Văn - Địa - Anh (D15)",22
+59,Tiếng Nhật Thương mại,12.520.000,"Toán – Lý - Ngoại ngữ (A01),  Văn – Toán - Anh (D01), Văn -Sử - Anh (D14), Văn - Địa - Anh (D15)",24
+60,Văn Báo chí,12.520.000,"Văn - Sử - Địa (C00), Văn – Toán - KHXH (C15), Văn – Toán - Ngoại ngữ (D01), Văn – Toán - Địa (C04)",28
+61,Việt Nam học,12.520.001,"Văn - Sử - Địa (C00), Văn – Toán - KHXH (C15), Văn – Toán - Ngoại ngữ (D01), Toán – Lý - Ngoại ngữ (A01)",21
+62,Truyền thông Đa phương tiện,12.520.002,"Văn - Sử - Địa (C00), Văn – Toán - KHXH (C15), Văn – Toán - Ngoại ngữ (D01), Toán – Lý - Hoá (A00)",20
+63,Quan hệ Quốc tế (Chương trình Tiếng Anh),12.520.003,"Văn - Sử - Địa (C00), Văn – Toán - KHXH (C15), Văn – Toán - Ngoại ngữ (D01), Toán – Lý - Ngoại ngữ (A01)",25
+64,Quan hệ Quốc tế (HP),12.520.004,"Văn - Sử - Địa (C00), Văn – Toán - KHXH (C15), Văn – Toán - Ngoại ngữ (D01), Toán – Lý - Ngoại ngữ (A01)",28
+65,Quan hệ Công chúng,13.520.000,"Văn - Sử - Địa (C00), Văn – Toán - KHXH (C15), Văn – Toán - Ngoại ngữ (D01), Toán – Lý - Ngoại ngữ (A01)",28
+66,Luật Kinh tế,13.520.001,"Toán – Lý - Hoá (A00), Văn - Sử - Địa (C00), Văn – Toán - KHXH (C15), Văn – Toán - Ngoại ngữ (D01)",23
+67,Luật Kinh doanh (HP),13.520.002,"Toán – Lý - Hoá (A00), Văn - Sử - Địa (C00), Văn – Toán - KHXH (C15), Văn – Toán - Ngoại ngữ (D01)",27
+68,Luật học,13.520.003,"Toán – Lý - Hoá (A00), Văn - Sử - Địa (C00), Văn – Toán - KHXH (C15), Văn – Toán - Ngoại ngữ (D01)",22
+69,Quản trị Du lịch & Khách sạn,13.520.004,"Toán – Lý - Hoá (A00), Văn - Sử - Địa (C00), Văn – Toán - KHXH (C15), Văn – Toán - Ngoại ngữ (D01)",24
+70,Quản trị Khách sạn Quốc tế (PSU),13.520.005,"Toán – Lý - Hoá (A00), Văn - Sử - Địa (C00), Văn – Toán - KHXH (C15), Văn – Toán - Ngoại ngữ (D01)",20
+71,Quản trị Du lịch & Dịch vụ Hàng không,13.520.006,"Toán – Lý - Hoá (A00), Văn - Sử - Địa (C00), Văn – Toán - KHXH (C15), Văn – Toán - Ngoại ngữ (D01)",24
+72,Hướng dẫn Du lịch Quốc tế (tiếng Anh),13.520.007,"Toán – Lý - Hoá (A00), Văn - Sử - Địa (C00), Văn – Toán - KHXH (C15), Văn – Toán - Ngoại ngữ (D01)",21
+73,Hướng dẫn Du lịch Quốc tế (tiếng Hàn),13.520.008,"Toán – Lý - Hoá (A00), Văn - Sử - Địa (C00), Văn – Toán - KHXH (C15), Văn – Toán - Ngoại ngữ (D01)",25
+74,Hướng dẫn Du lịch Quốc tế (tiếng Trung),10.520.000,"Toán – Lý - Hoá (A00), Văn - Sử - Địa (C00), Văn – Toán - KHXH (C15), Văn – Toán - Ngoại ngữ (D01)",28
+75,Quản trị Du lịch & Lữ hành,10.520.001,"Toán – Lý - Hoá (A00), Văn - Sử - Địa (C00), Văn – Toán - KHXH (C15), Văn – Toán - Ngoại ngữ (D01)",26
+76,Quản trị Du lịch & Lữ hành chuẩn PSU,10.520.002,"Toán – Lý - Hoá (A00), Văn - Sử - Địa (C00), Văn – Toán - KHXH (C15), Văn – Toán - Ngoại ngữ (D01)",25
+77,Quản trị Sự kiện và Giải trí,10.520.003,"Toán – Lý - Hoá (A00), Văn - Sử - Địa (C00), Văn – Toán - KHXH (C15), Văn – Toán - Ngoại ngữ (D01)",25
+78,Quản trị Nhà hàng Quốc tế (PSU),10.520.004,"Toán – Lý - Hoá (A00), Văn - Sử - Địa (C00), Văn – Toán - KHXH (C15), Văn – Toán - Ngoại ngữ (D01)",28
+79,Smart Tourism (Du lịch thông minh),10.520.005,"Toán – Lý - Hoá (A00), Văn - Sử - Địa (C00), Văn – Toán - KHXH (C15), Văn – Toán - Ngoại ngữ (D01)",20
+80,Quản lý & Khởi sự Doanh nghiệp Nhỏ & Vừa (SME),10.520.006,"Toán – Lý - Hoá (A00), Văn - Sử - Địa (C00), Văn – Toán - KHXH (C15), Văn – Toán - Ngoại ngữ (D01)",23
+81,Điều dưỡng Đa khoa,10.520.007,"Toán – Lý - Hoá (A00), Toán -  KHTN - Văn (A16), Toán – Hoá - Sinh (B00), Toán – Sinh – Văn (B03)",28
+82,Dược sĩ (Đại học),10.520.008,"Toán – Lý - Hoá (A00), Toán -  KHTN - Văn (A16), Toán – Hoá - Sinh (B00), Toán – Sinh – Văn (B03)",25
+83,Bác sĩ Đa khoa,14.520.000,"Toán -  KHTN - Văn (A16), Toán – Hoá - Sinh (B00), Toán – KHTN – Ngoại Ngữ (D90), Toán – Sinh – Ngoại Ngữ (D08)",21
+84,Bác sĩ RĂNG – HÀM - MẶT,14.520.001,"Toán – Lý - Hoá (A00), Toán -  KHTN - Văn (A16), Toán – Hoá - Sinh (B00), Toán – KHTN – Ngoại Ngữ (D90)",22
+85,Công nghệ Sinh học,14.520.002,"Toán – Lý - Hoá (A00), Toán – Lý - Ngoại ngữ (A01), Toán – Hoá - Sinh (B00), Toán – Sinh – Văn (B03)",26
+86,Kỹ thuật Y sinh,14.520.003,"Toán – Lý - Hoá (A00), Toán – Lý - Ngoại ngữ (A01), Toán – Hoá - Sinh (B00), Toán – Sinh – Văn (B03)",28
+87,Xét nghiệm Y học,14.520.004,"Toán – Lý - Hoá (A00), Toán – Hoá - Sinh (B00), Toán – Sinh – Văn (B03), Toán – Hoá – Ngoại Ngữ (D07)",23
+88,Công nghệ Phần mềm chuẩn CMU,14.520.005,"Toán – Lý - Hoá (A00), Toán -  KHTN - Văn (A16), Toán – Lý - Ngoại ngữ (A01), Văn – Toán - Ngoại ngữ (D01)",22
+89,An ninh Mạng chuẩn CMU,14.520.006,"Toán – Lý - Hoá (A00), Toán -  KHTN - Văn (A16), Toán – Lý - Ngoại ngữ (A01), Văn – Toán - Ngoại ngữ (D01)",26
+90,Hệ thống Thông tin Quản lý chuẩn CMU,14.520.007,"Toán – Lý - Hoá (A00), Toán -  KHTN - Văn (A16), Toán – Lý - Ngoại ngữ (A01), Văn – Toán - Ngoại ngữ (D01)",20
+91,Quản trị Kinh doanh chuẩn PSU,14.520.008,"Toán – Lý - Hoá (A00), Toán -  KHTN - Văn (A16), Văn – Toán - Lý (C01), Văn – Toán - Ngoại ngữ (D01)",29
+92,Tài chính - Ngân hàng chuẩn PSU,14.520.009,"Toán – Lý - Hoá (A00), Toán -  KHTN - Văn (A16), Văn – Toán - Lý (C01), Văn – Toán - Ngoại ngữ (D01)",27
+93,Kế toán Kiểm toán chuẩn PSU,15.520.000,"Toán – Lý - Hoá (A00), Toán -  KHTN - Văn (A16), Văn – Toán - Lý (C01), Văn – Toán - Ngoại ngữ (D01)",22
+94,Xây dựng Dân dụng & Công nghiệp chuẩn CSU,15.520.001,"Toán – Lý - Hoá (A00), Toán -  KHTN - Văn (A16), Văn – Toán - Lý (C01), Văn – Toán - Ngoại ngữ (D01)",25
+95,Kiến trúc Công trình chuẩn CSU,15.520.002,"Toán – Lý - Vẽ (V00), Toán – Văn - Vẽ (V01), Toán – KHXH - Vẽ (M02), Toán – KHTN - Vẽ (M04)",27
+96,Công nghệ Thông tin TROY,15.520.003,"Toán – Lý - Hoá (A00), Toán -  KHTN - Văn (A16), Toán – Lý - Ngoại ngữ (A01), Văn – Toán - Ngoại ngữ (D01)",26
+97,Quản trị Du lịch & Khách sạn TROY,15.520.004,"Toán – Lý - Hoá (A00), Văn - Sử - Địa (C00), Toán – Lý - Ngoại ngữ (A01), Văn – Toán - Ngoại ngữ (D01)",24
+98,Quản trị Kinh doanh TROY,15.520.005,"Toán – Lý - Hoá (A00), Văn - Sử - Địa (C00), Toán – Lý - Ngoại ngữ (A01), Văn – Toán - Ngoại ngữ (D01)",24
+99,Quản trị Doanh nghiệp (HP),15.520.006,"Toán – Lý - Hoá (A00), Toán -  KHTN - Văn (A16), Văn – Toán - Lý (C01), Văn – Toán - Ngoại ngữ (D01)",26
+100,Quản trị Marketing & Chiến lược (HP),15.520.007,"Toán – Lý - Hoá (A00), Toán -  KHTN - Văn (A16), Văn – Toán - Lý (C01), Văn – Toán - Ngoại ngữ (D01)",29
+101,Logistics & Quản lý Chuỗi cung ứng (HP),15.520.008,"Toán – Lý - Hoá (A00), Toán -  KHTN - Văn (A16), Văn – Toán - Lý (C01), Văn – Toán - Ngoại ngữ (D01)",27
+102,Quản trị Tài chính (HP),15.520.009,"Toán – Lý - Hoá (A00), Toán -  KHTN - Văn (A16), Văn – Toán - Lý (C01), Văn – Toán - Ngoại ngữ (D01)",21
