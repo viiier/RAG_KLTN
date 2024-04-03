@@ -1,0 +1,91 @@
+Học phí ngành Big Data & Machine Learning là: 11.520.000 VNĐ
+Học phí ngành Trí Tuệ Nhân Tạo là: 12.520.000 VNĐ
+Học phí ngành Công Nghệ Phần Mềm là: 13.520.000 VNĐ
+Học phí ngành Khoa Học Máy Tính là: 14.520.000 VNĐ
+Học phí ngành Khoa Học Dữ Liệu là: 14.520.000 VNĐ
+Học phí ngành Mạng Máy Tính & Truyền Thông Dữ Liệu là: 13.520.000 VNĐ
+Học phí ngành An Toàn Thông Tin là: 13.520.000 VNĐ
+Học phí ngành Kỹ Thuật Mạng là: 13.520.000 VNĐ
+Học phí ngành Thiết Kế Games là: 15.520.000 VNĐ
+Học phí ngành Kiểm Toán là: 11.520.000 VNĐ
+Học phí ngành Kế Toán Doanh Nghiệp là: 11.520.000 VNĐ
+Học phí ngành Kế Toán Nhà Nước là: 11.520.000 VNĐ
+Học phí ngành Kế Toán Quản Trị là: 11.520.000 VNĐ
+Học phí ngành Digital Marketing là: 12.520.000 VNĐ
+Học phí ngành Thương Mại Điện Tử là: 12.520.000 VNĐ
+Học phí ngành Quản Trị Kinh Doanh Marketing là: 13.520.000 VNĐ
+Học phí ngành Ngân Hàng là: 12.520.000 VNĐ
+Học phí ngành Quản Trị Kinh Doanh Tổng Hợp là: 13.520.000 VNĐ
+Học phí ngành Đầu Tư Tài Chính là: 12.520.000 VNĐ
+Học phí ngành Kinh Doanh Thương Mại là: 13.520.000 VNĐ
+Học phí ngành Tài Chính Doanh Nghiệp là: 14.520.000 VNĐ
+Học phí ngành Quản Trị Nhân Lực là: 14.520.000 VNĐ
+Học phí ngành Quản Trị Kinh Doanh Bất Động Sản là: 14.520.000 VNĐ
+Học phí ngành Quản Trị Kinh Doanh Quốc Tế là: 13.520.000 VNĐ
+Học phí ngành Điện Tự Động là: 10.560.000 VNĐ
+Học phí ngành Điện Tử - Viễn Thông là: 10.560.000 VNĐ
+Học phí ngành Điện - Điện Tử Chuẩn PNU là: 13.020.000 VNĐ
+Học phí ngành Công Nghệ Kỹ Thuật Ô Tô là: 13.020.000 VNĐ
+Học phí ngành Điện Cơ Ô Tô là: 10.560.000 VNĐ
+Học phí ngành Kỹ Thuật Điều Khiển Và Tự Động Hóa là: 11.520.000 VNĐ
+Học phí ngành Kỹ Thuật Điện là: 10.560.000 VNĐ
+Học phí ngành Cơ Điện Tử Chuẩn PNU là: 13.020.000 VNĐ
+Học phí ngành Thiết Kế Đồ Họa là: 13.020.000 VNĐ
+Học phí ngành Thiết Kế Thời Trang là: 11.520.000 VNĐ
+Học phí ngành Kiến Trúc Công Trình là: 7.392.000 VNĐ
+Học phí ngành Kiến Trúc Nội Thất là: 7.392.000 VNĐ
+Học phí ngành Xây Dựng Dân Dụng Và Công Nghiệp là: 7.392.000 VNĐ
+Học phí ngành Công Nghệ Quản Lý Xây Dựng là: 7.392.000 VNĐ
+Học phí ngành Quản Lý Và Vận Hành Tòa Nhà là: 7.392.000 VNĐ
+Học phí ngành Quản Lý Tài Nguyên Và Môi Trường là: 7.392.000 VNĐ
+Học phí ngành Xây Dựng Cầu Đường là: 7.392.000 VNĐ
+Học phí ngành Quản Lý Tài Nguyên Du Lịch là: 7.392.000 VNĐ
+Học phí ngành Công Nghệ Thực Phẩm là: 10.560.000 VNĐ
+Học phí ngành Công Nghệ Kỹ Thuật Môi Trường là: 7.392.000 VNĐ
+Học phí ngành Công Nghệ Chế Tạo Máy là: 7.392.000 VNĐ
+Học phí ngành Quản Trị Du Lịch & Khách Sạn là: 13.020.000 VNĐ
+Học phí ngành Quản Trị Khách Sạn Quốc Tế Chuẩn PSU là: 20.000.000 VNĐ
+Học phí ngành Quản Trị Du Lịch & Lữ Hành là: 13.020.000 VNĐ
+Học phí ngành Quản Trị Du Lịch & Lữ Hành Chuẩn PSU là: 16.480.000 VNĐ
+Học phí ngành Hướng Dẫn Du Lịch Quốc Tế (Tiếng Anh) là: 11.520.000 VNĐ
+Học phí ngành Hướng Dẫn Du Lịch Quốc Tế (Tiếng Hàn) là: 11.520.000 VNĐ
+Học phí ngành Hướng Dẫn Du Lịch Quốc Tế (Tiếng Trung) là: 11.520.000 VNĐ
+Học phí ngành Quản Trị Du Lịch & Dịch Vụ Hàng Không là: 11.520.000 VNĐ
+Học phí ngành Quản Trị Nhà Hàng Quốc Tế Chuẩn PSU là: 11.520.000 VNĐ
+Học phí ngành Smart Tourism (Du Lịch Thông Minh) là: 11.520.000 VNĐ
+Học phí ngành Văn Hóa Du Lịch là: 11.520.000 VNĐ
+Học phí ngành Quản Trị Sự Kiện & Giải Trí là: 13.980.000 VNĐ
+Học phí ngành Tiếng Anh Biên - Phiên Dịch là: 10.560.000 VNĐ
+Học phí ngành Tiếng Anh Du Lịch là: 10.560.000 VNĐ
+Học phí ngành Tiếng Anh Thương Mại là: 11.520.000 VNĐ
+Học phí ngành Tiếng Anh (HP) là: 13.980.000 VNĐ
+Học phí ngành Tiếng Trung Biên - Phiên Dịch là: 10.560.000 VNĐ
+Học phí ngành Tiếng Trung Du Dịch là: 10.560.000 VNĐ
+Học phí ngành Tiếng Trung Thương Mại là: 11.520.000 VNĐ
+Học phí ngành Tiếng Trung (HP) là: 13.980.000 VNĐ
+Học phí ngành Tiếng Hàn Biên - Phiên Dịch là: 10.560.000 VNĐ
+Học phí ngành Tiếng Hàn Du Lịch là: 10.560.000 VNĐ
+Học phí ngành Tiếng Hàn Thương Mại là: 11.520.000 VNĐ
+Học phí ngành Tiếng Hàn (HP) là: 13.980.000 VNĐ
+Học phí ngành Tiếng Nhật Biên - Phiên Dịch là: 10.560.000 VNĐ
+Học phí ngành Tiếng Nhật Du Lịch là: 10.560.000 VNĐ
+Học phí ngành Tiếng Nhật Thương Mại là: 11.520.000 VNĐ
+Học phí ngành Tiếng Nhật (HP) là: 13.980.000 VNĐ
+Học phí ngành Văn - Báo Chí là: 8.800.000 VNĐ
+Học phí ngành Việt Nam Học là: 8.800.000 VNĐ
+Học phí ngành Truyền Thông Đa Phương Tiện là: 11.520.000 VNĐ
+Học phí ngành Quan Hệ Quốc Tế (Chương Trình Tiếng Anh) là: 10.560.000 VNĐ
+Học phí ngành Quan Hệ Quốc Tế (Chương Trình Tiếng Nhật) là: 10.560.000 VNĐ
+Học phí ngành Quan Hệ Quốc Tế (Chương Trình Tiếng Trung) là: 11.520.000 VNĐ
+Học phí ngành Quan Hệ Kinh Tế Quốc Tế là: 13.980.000 VNĐ
+Học phí ngành Quan Hệ Quốc Tế (HP) là: 13.020.000 VNĐ
+Học phí ngành Quan Hệ Công Chúng là: 11.520.000 VNĐ
+Học phí ngành Luật Kinh Tế là: 11.520.000 VNĐ
+Học phí ngành Luật Kinh Doanh (HP) là: 13.980.000 VNĐ
+Học phí ngành Luật Học là: 10.560.000 VNĐ
+Học phí ngành Dược Sĩ (Đại Học) là: 17.600.000 VNĐ
+Học phí ngành Điều Dưỡng Đa Khoa là: 9.440.000 VNĐ
+Học phí ngành Bác Sĩ Đa Khoa là: 42.500.000 VNĐ
+Học phí ngành Bác Sĩ Răng - Hàm - Mặt là: 45.000.000 VNĐ
+Học phí ngành Công Nghệ Sinh Học là: 13.980.000 VNĐ
+Học phí ngành Kỹ Thuật Y Sinh là: 10.560.000 VNĐ
